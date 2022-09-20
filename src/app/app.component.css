@@ -1,0 +1,23 @@
+.barra-inicio {
+    background-color: #ebedec00;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+}
+.topo {
+    font-size: 1.4em;
+    margin-bottom: 0;
+    font-weight: 800;
+    font-family: 'Monly Serif', serif;
+}
+.container {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+.botao-rosa {
+    background-color: #f7c9f3;
+
+}
+.fundofotoinicio{
+    background-color: #ebedec00;
+}
